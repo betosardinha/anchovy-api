@@ -7,3 +7,6 @@ tmp/
 
 # IDE
 .vscode/
+
+# Env files
+.env
