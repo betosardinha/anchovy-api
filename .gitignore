@@ -1,0 +1,9 @@
+# Go
+bin/
+
+# Air (hot reload)
+tmp/
+.air.toml.local
+
+# IDE
+.vscode/
